@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="azureml-contrib-featur-eengineering",
+    name="azure-mgmt-loadtestservice",
     version="0.1.0",
     author="himanshu",
     author_email="himanshu.hakerone@gmail.com",
