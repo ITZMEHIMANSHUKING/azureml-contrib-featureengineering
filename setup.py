@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="azure-mgmt-loadtestservice",
-    version="0.1.0",
+    version="1.0.0",
     author="himanshu",
     author_email="himanshu.hakerone@gmail.com",
     url="https://www.youtube.com/channel/UCv9MUffHWyo2GgLIDLVu0KQ",
