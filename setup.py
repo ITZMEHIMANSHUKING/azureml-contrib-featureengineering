@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="azure-mgmt-loadtestservice",
+    name="bravado-decorators",
     version="1.0.0",
     author="himanshu",
     author_email="himanshu.hakerone@gmail.com",
