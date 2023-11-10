@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="bravado-decorators",
-    version="1.0.0",
+    name="azure-mgmt-loadtestservice",
+    version="2.0.0",
     author="himanshu",
-    author_email="himanshu.hakerone@gmail.com",
+    author_email="himanshu.hackerone@gmail.com",
     url="https://www.youtube.com/channel/UCv9MUffHWyo2GgLIDLVu0KQ",
     description="An application that informs you of the time in different locations and timezones",
     packages=find_packages(),
